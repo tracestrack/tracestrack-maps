@@ -1,0 +1,20 @@
+* Tracestrack Maps
+
+  The maps are derived from [[https://github.com/gravitystorm/openstreetmap-carto][gravitystorm/openstreetmap-carto]].
+
+* Goal
+
+  TBD
+
+* Open Status
+
+| Name  | Description                                                         | Status      |
+|-------+---------------------------------------------------------------------+-------------|
+| Carto | flat background map similar to osm-carto.                           | Planned     |
+| Topo  | topographical maps featuring relief, hill shades and contour lines. | Open        |
+| Label | labels, icons, boundaries lying on top of background maps.          | Not planned |
+
+* Setup
+
+  Please setup a same enviroment as described in
+  [[https://github.com/gravitystorm/openstreetmap-carto][gravitystorm/openstreetmap-carto]]. For working with DEM data, please refer to [[https://github.com/der-stefan/OpenTopoMap/blob/master/mapnik/HOWTO_DEM.md][der-stefan/OpenTopoMap]].
