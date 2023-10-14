@@ -2,19 +2,42 @@
 
   The maps are derived from [[https://github.com/gravitystorm/openstreetmap-carto][gravitystorm/openstreetmap-carto]].
 
-* Goal
+* Goals
 
-  TBD
+  The maps aim to be avant-garde and progressive, i.e. willing to change and
+  support new tags. However there are some guidelines in general:
 
-* Open Status
+  1. similar to osm-carto so that users can cross-reference and understand
+     without much context switching.
+  2. general and balanced to everyday use. For example, no street_lamp or power
+     lines as they are less useful and clutter the maps.
+  3. for Topo map, priority should be given to outdoor activities.
+  4. maintaining similarity and relevance between Carto and Topo.
 
-| Name  | Description                                                         | Status      |
-|-------+---------------------------------------------------------------------+-------------|
-| Carto | flat background map similar to osm-carto.                           | Planned     |
-| Topo  | topographical maps featuring relief, hill shades and contour lines. | Open        |
-| Label | labels, icons, boundaries lying on top of background maps.          | Not planned |
+* Issue reports
+
+  You are welcome to open issues about styling and tag support for Carto, Topo
+  and Label maps.
+
+* Open status
+
+| Name  | Description                                                        | Status      |
+|-------+--------------------------------------------------------------------+-------------|
+| Carto | flat background map similar to osm-carto.                          | Open        |
+| Topo  | topographical map featuring relief, hill shades and contour lines. | Open        |
+| Label | labels, icons and boundaries on top of background maps.            | Proprietary |
 
 * Setup
 
   Please setup a same enviroment as described in
-  [[https://github.com/gravitystorm/openstreetmap-carto][gravitystorm/openstreetmap-carto]]. For working with DEM data, please refer to [[https://github.com/der-stefan/OpenTopoMap/blob/master/mapnik/HOWTO_DEM.md][der-stefan/OpenTopoMap]].
+  [[https://github.com/gravitystorm/openstreetmap-carto][gravitystorm/openstreetmap-carto]]. For working with DEM data, please refer to
+  [[https://github.com/der-stefan/OpenTopoMap/blob/master/mapnik/HOWTO_DEM.md][der-stefan/OpenTopoMap]]. Setting up the enviroment requires some decent Linux
+  and GIS knowledge and won't be covered in this repository.
+
+* Maintainers and support
+
+  [[https://github.com/quinncnl][quinncnl]]
+
+  If you want to support this effort, please subscribe the service in your
+  project or donate in this page: https://www.tracestrack.com/information/. That
+  will help keeping the projects going and improving. Thanks!
