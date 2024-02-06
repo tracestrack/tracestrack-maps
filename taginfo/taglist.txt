@@ -1,0 +1,50 @@
+name
+religion: christian', 'jewish', 'muslim
+aeroway: apron', 'aerodrome
+amenity: parking bicycle_parking', 'motorcycle_park\
+    ing', 'university', 'college', 'school', 'taxi',
+89                                                      'hospital', 'kindergarten', 'grave_\
+    yard', 'prison', 'place_of_worship', 'clinic', 'ferry_terminal',
+90                                                      'marketplace', 'community_centre', \
+    'social_facility', 'arts_centre', 'parking_space', 'bus_station',
+91                                                      'fire_station', 'police', 'driver_t\
+    raining')
+
+wetland: wetland', 'mud') THEN (CASE WHEN\
+     "natural" = 'mud' THEN "natural" ELSE tags->'wetland' END:
+ power: ('plant', 'substation', 'generator') THE\
+    N power END) || (CASE WHEN tags->'plant:source' IN ('solar') THEN tags->'plant:source' \
+    ELSE '' END)) AS
+, landuse, 
+leisure: swimming_pool', 'playground', 'par\
+    k', 'recreation_ground', 'garden',
+101                                                     'golf_course',
+102                                                     'miniature_golf', 'sports_centre', \
+    'stadium', 'pitch', 'ice_rink', 'bleachers',
+103                                                     'horse_riding',
+104                                                     'track', 'dog_park', 'fitness_stati\
+    on', 'water_park') THEN:
+ man_made: works', 'wastewater_plant', 'wat\
+    er_works
+ natural: ural" IN ('beach', 'shoal', 'heath', 'grass\
+    land', 'wood', 'sand', 'scree', 'shingle', 'bare_rock', 'blockfield', 'scrub', 'shrubbe\
+    ry') THEN "natural" END
+ 
+shop: mall 
+, tourism: camp_site', 'caravan_site', 'picni\
+    c_site') THEN tourism END
+
+, highway: services', 'rest_area
+
+, railway: station'
+landuse: quarry', 'vineyard', 'orchard', 'c\
+    emetery', 'residential', 'garages', 'meadow', 'grass', 'flowerbed',
+94                                                      'allotments', 'forest', 'farmyard',\
+     'farmland', 'greenhouse_horticulture', 'aquaculture',
+95                                                      'recreation_ground', 'village_green\
+    ', 'retail', 'industrial', 'railway', 'commercial',
+96                                                      'brownfield', 'greenfield', 'landfi\
+    ll', 'salt_pond', 'construction', 'plant_nursery', 'religious',
+97                                                      'institutional',
+98                                                      'civic_admin', 'government', 'gover\
+    nmental', 'education') THEN landuse END)) AS landuse
