@@ -1,0 +1,15 @@
+name
+religion:christian,jewish,muslim
+aeroway:apron,aerodrome
+amenity:parking bicycle_parking,motorcycle_parking,university,college,school,taxi,hospital,kindergarten,grave_yard,prison,place_of_worship,clinic,ferry_terminal,marketplace,community_centre,social_facility,arts_centre,parking_space,bus_station,fire_station,police,driver_training
+wetland:wetland,mud
+power:plant,substation,generator
+plant:source
+leisure:swimming_pool,playground,park,recreation_ground,garden,golf_course,miniature_golf,sports_centre,stadium,pitch,ice_rink,bleachers,horse_riding,track,dog_park,fitness_station,water_park
+man_made:works,wastewater_plant,water_works
+natural:beach,shoal,heath,grassland,wood,sand,scree,shingle,bare_rock,blockfield,scrub,shrubbery
+shop:mall 
+tourism:camp_site,caravan_site,picnic_site
+highway:services,rest_area
+railway:station
+landuse:quarry,vineyard,orchard,cemetery,residential,garages,meadow,grass,flowerbed,allotments,forest,farmyard,farmland,greenhouse_horticulture,aquaculture,recreation_ground,village_green,retail,industrial,railway,commercial,brownfield,greenfield,landfill,salt_pond,construction,plant_nursery,religious,institutional,civic_admin,government,governmental,education
