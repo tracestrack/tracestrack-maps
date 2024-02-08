@@ -31,7 +31,7 @@ fs.readFile('taglist.txt', 'utf8', (err, data) => {
     // console.log(tags);
     let output = {
         "data_format": 1,
-        "data_updated": new Date(),
+        "data_updated": new Date().toISOString().substring(0, 19).replaceAll("-", "").replaceAll(":", "") + "Z",
         "project": {
          "name" : "Tracestrack Topo Universal",
          "description" : "A universal topo map for hikers, climbers, and mountaineers.",
