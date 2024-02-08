@@ -36,6 +36,7 @@ fs.readFile('taglist.txt', 'utf8', (err, data) => {
          "name" : "Tracestrack Topo Universal",
          "description" : "A universal topo map for hikers, climbers, and mountaineers.",
          "icon_url" : "https://www.tracestrack.com/img/logo_white.png",
+         "project_url": "https://github.com/tracestrack/tracestrack-maps",
          "contact_name" : "Tracestrack",
          "contact_email" : "info@tracestrack.com"
         },
