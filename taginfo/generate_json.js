@@ -1,8 +1,8 @@
 const fs = require('fs');
 
 function parseLine(line) {
-    let key = line.split(':')[0];
-    let values = line.split(':')[1];
+    let key = line.split('=')[0];
+    let values = line.split('=')[1];
     if (values) {
         values = values.split(',');
         for (let i = 0; i < values.length; i++) {
