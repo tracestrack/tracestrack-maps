@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8"
+   height="8"
+   viewBox="0 0 2.1166666 2.1166668"
+   version="1.1"
+   id="svg3223"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="petro.svg">
+  <defs
+     id="defs3217" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.567956"
+     inkscape:cx="7.3078668"
+     inkscape:cy="1.9035667"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1841"
+     inkscape:window-height="1052"
+     inkscape:window-x="79"
+     inkscape:window-y="352"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="23.911869,46.082282"
+       orientation="0,-1"
+       id="guide5955" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3220">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0215636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 0.95051512,0.08796913 c -0.0597317,0 -0.1078183,0.0480869 -0.1078183,0.10781828 V 0.3036056 h -0.5390912 c -0.0597317,0 -0.10781828,0.0480869 -0.10781828,0.10781828 V 0.51924216 H 0.95051512 1.1661516 1.9208793 V 0.41142388 c 0,-0.0597316 -0.048087,-0.10781828 -0.1078183,-0.10781828 H 1.2739698 V 0.19578741 c 0,-0.0597316 -0.048087,-0.10781828 -0.1078182,-0.10781828 z M 0.19578734,0.73487863 0.62706037,2.0286975 H 1.4896063 l 0.431273,-1.29381887 z"
+       id="waste_basket"
+       inkscape:label="#path5634"
+       inkscape:connector-curvature="0">
+      <title
+         id="title5978">waste basket</title>
+    </path>
+  </g>
+</svg>

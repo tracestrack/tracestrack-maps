@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   viewBox="0 0 7.9374998 7.9375002"
+   version="1.1"
+   id="svg3223"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="bus_station.svg">
+  <defs
+     id="defs3217" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="19.929158"
+     inkscape:cx="14.861301"
+     inkscape:cy="11.200913"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1845"
+     inkscape:window-height="1027"
+     inkscape:window-x="75"
+     inkscape:window-y="377"
+     inkscape:window-maximized="1"
+     showguides="false"
+     width="20mm" />
+  <metadata
+     id="metadata3220">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;fill:#0092da;fill-opacity:1;stroke-width:0.405"
+       id="path1419"
+       cx="3.96875"
+       cy="-3.96875"
+       rx="3.6776249"
+       ry="3.6061842"
+       transform="scale(1,-1)" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0390068;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1.6283356,2.6035083 c -0.1080498,0 -0.1950346,0.086985 -0.1950346,0.1950344 v 2.3404144 c 0,0.1080491 0.086985,0.1950346 0.1950346,0.1950346 h 1.9503453 c 0.1080491,0 0.1950346,-0.086985 0.1950346,-0.1950346 V 2.7985428 c 0,-0.1080492 -0.086985,-0.1950344 -0.1950346,-0.1950344 z m 2.7304834,0 c -0.1080491,0 -0.1950345,0.086985 -0.1950345,0.1950344 v 2.3404144 c 0,0.1080491 0.086985,0.1950346 0.1950345,0.1950346 h 1.9503455 c 0.1080479,0 0.1950345,-0.086985 0.1950345,-0.1950346 V 2.7985428 c 0,-0.1080492 -0.086985,-0.1950344 -0.1950345,-0.1950344 z M 1.8233701,2.9935774 H 3.3836465 V 4.1637845 H 1.8233701 Z m 2.7304836,0 H 6.11413 V 4.1637845 H 4.5538537 Z M 2.0184045,4.4654794 A 0.28368662,0.28368662 0 0 1 2.3018132,4.7488881 0.28368662,0.28368662 0 0 1 2.0184045,5.0322966 0.28368662,0.28368662 0 0 1 1.7349961,4.7488881 0.28368662,0.28368662 0 0 1 2.0184045,4.4654794 Z m 1.1702073,0 A 0.28368662,0.28368662 0 0 1 3.4720205,4.7488881 0.28368662,0.28368662 0 0 1 3.1886118,5.0322966 0.28368662,0.28368662 0 0 1 2.9052033,4.7488881 0.28368662,0.28368662 0 0 1 3.1886118,4.4654794 Z m 1.5602764,0 A 0.28368662,0.28368662 0 0 1 5.0322967,4.7488881 0.28368662,0.28368662 0 0 1 4.7488882,5.0322966 0.28368662,0.28368662 0 0 1 4.4654796,4.7488881 0.28368662,0.28368662 0 0 1 4.7488882,4.4654794 Z m 1.1702072,0 A 0.28368662,0.28368662 0 0 1 6.202504,4.7488881 0.28368662,0.28368662 0 0 1 5.9190954,5.0322966 0.28368662,0.28368662 0 0 1 5.6356868,4.7488881 0.28368662,0.28368662 0 0 1 5.9190954,4.4654794 Z"
+       id="buses"
+       inkscape:label="#rect24886">
+      <title
+         id="title24905">two buses</title>
+    </path>
+  </g>
+</svg>
