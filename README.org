@@ -36,8 +36,8 @@
 
 * Maintainers and support
 
-  [[https://github.com/quinncnl][quinncnl]]
+[[https://github.com/quinncnl][quinncnl]]
 
-  If you want to support this effort, please subscribe the service in your
-  project or donate in this page: https://www.tracestrack.com/information/. That
-  will help keeping the projects going and improving. Thanks!
+To support this project, please subscribe to our service or make a donation at 
+[[https://www.tracestrack.com][tracestrack.com]].
+Your contribution helps us maintain and improve this project. Thank you for your support!
